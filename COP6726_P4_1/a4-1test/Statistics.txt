@@ -1,0 +1,8 @@
+1
+supplier_part_partsupp#4
+5
+supplier_part_partsupp p_name 199996
+supplier_part_partsupp p_partkey 200000
+supplier_part_partsupp ps_suppkey 10000
+supplier_part_partsupp ps_partkey 200000
+supplier_part_partsupp s_suppkey 10000
